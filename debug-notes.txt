@@ -1,5 +1,0 @@
-Temporary debugging notes
-Session label: night-build
-Environment: local test
-Issue: empty export folder
-Resolution: create output folder before writing
